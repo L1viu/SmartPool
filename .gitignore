@@ -14,7 +14,7 @@
 .cxx
 local.properties
 
- Ignore build files from all modules
+# Ignore build files from all modules
 **/build/
 
 # Firebase configuration
