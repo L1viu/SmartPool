@@ -129,6 +129,18 @@
 
         </LinearLayout>
 
+        <!-- Test to see if python backedn is working -->
+        <Button
+            android:id="@+id/btnCheckBackend"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:layout_marginTop="20dp"
+            android:backgroundTint="#214536"
+            android:text="Check Backend Status"
+            android:textAllCaps="false"
+            android:textColor="#FFFFFF"
+            android:textSize="16sp" />
+
         <Space
             android:layout_width="match_parent"
             android:layout_height="0dp"
